@@ -58,4 +58,4 @@ Open `http://localhost:5500/index.html`.
 
 ## Repository safety
 
-The repository ignores API keys, `.env`, the local database, virtual environments, IDE files, and Python cache files. Set `GEMINI_API_KEY` in your local environment before starting the API.
+The repository ignores API keys, `.env`, the local database, virtual environments, IDE files, and Python cache files. Set `GEMINI_API_KEY` in your local environment before starting the API..
