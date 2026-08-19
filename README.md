@@ -1,6 +1,6 @@
 # Gemini Chat
 
-A full-stack AI chat application built with FastAPI, SQLite, SQLAlchemy, the Google GenAI SDK, and a responsive vanilla HTML/CSS/JavaScript frontend.
+A full-stack AI chat application built with FastAPI, SQLite, SQLAlchemy, the Google GenAI SDK, and a responsive vanilla HTML/CSS/JavaScript front-end.
 
 ## Features
 
