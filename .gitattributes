@@ -1,2 +1,3 @@
 js/*.js linguist-language=JavaScript
 index.html linguist-language=HTML
+style.css linguist-language=css
