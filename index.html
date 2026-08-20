@@ -10,6 +10,6 @@
 </head>
 <body>
   <div class="app"><aside class="side"><div class="brand"><span class="logo">✦</span>Gemini Chat</div><button class="new" id="newChat">＋ New chat</button><div class="caption">History</div><div class="history"><div class="history-list" id="historyList"></div></div><div class="caption">Tips</div><div class="tips"><p>Write in English or any language.</p><p>Press Enter to send.</p><p>Use Shift + Enter for a new line.</p></div><div class="side-bottom"><div class="status"><span class="dot" id="statusDot"></span><span id="statusText">Checking API...</span></div><button class="clear" id="clearChat">Clear current chat</button></div></aside><main><header><div class="head"><h1>Your AI assistant</h1><p>Powered by your local FastAPI server</p></div><span class="badge">localhost:8000</span></header><section class="chat" id="chat"></section><div class="composer-wrap"><form class="composer" id="form"><textarea id="prompt" rows="1" placeholder="Write a message..." autocomplete="off"></textarea><button class="send" id="send" type="submit">➤</button></form><div class="hint">Gemini API · Requests are stored on the server</div></div></main></div>
-  <script src="./js/app.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
